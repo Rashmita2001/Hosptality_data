@@ -69,4 +69,4 @@ Data Available: Direct traffic, campaign conversions, engagement rates.
 9. Third-Party Market Reports
 📌 From companies like STR, Hotelogix, HVS, or Deloitte Hospitality Insights.
 Data Available: Benchmarking, market trends, competitive performance.
-
+This data analysis is level 1 based.
