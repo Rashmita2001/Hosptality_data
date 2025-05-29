@@ -1,0 +1,66 @@
+Domain:  Consumer Goods | Function: Executive Management
+
+Atliq Hardwares (imaginary company) is one of the leading computer hardware producers in India and well expanded in other countries too.
+
+However, the management noticed that they do not get enough insights to make quick and smart data-informed decisions. They want to expand their data analytics team by adding several junior data analysts. Tony Sharma, their data analytics director wanted to hire someone who is good at both tech and soft skills. Hence, he decided to conduct a SQL challenge which will help him understand both the skills.
+
+Task:  
+
+Imagine yourself as the applicant for this role and perform the following task
+
+1.    Check ‘ad-hoc-requests.pdf’ - there are 10 ad hoc requests for which the business needs insights.
+2.    You need to run a SQL query to answer these requests. 
+3.    The target audience of this dashboard is top-level management - hence you need to create a presentation to show the insights.
+4.    Be creative with your presentation, audio/video presentation will have more weightage.
+
+Other resources Provided:
+
+a.    Dataset required to provide 
+b.    Metadata
+c.    Hints (try not to use the hints to develop your skills quicker)
+d.    Sample questions and Presentation
+ 
+
+
+Common Data Sources in the Hospitality Industry:
+1. Property Management System (PMS)
+📌 Core system in hotels for managing reservations, check-ins/outs, billing, etc.
+
+Data Available: Room bookings, guest profiles, stay history, cancellations.
+
+
+3. Booking Channels / OTAs
+📌 Platforms like Booking.com, Expedia, Agoda, MakeMyTrip.
+
+Data Available: Booking source, lead time, cancellation rate, channel performance.
+
+4. Revenue Management System (RMS)
+📌 Used to forecast demand and optimize pricing.
+
+Data Available: Occupancy rates, RevPAR, ADR, seasonality patterns.
+
+5. Customer Relationship Management (CRM)
+📌 Stores guest preferences, feedback, marketing campaign engagement.
+
+Data Available: Repeat guest rate, email open/click rate, guest satisfaction.
+
+6. Financial & Accounting Systems
+📌 Manages income, expenses, profitability.
+
+Data Available: Department-wise revenue, profit margins, cost analysis.
+
+7. Guest Surveys / Feedback Tools
+📌 Tools like Medallia, SurveyMonkey, in-house review forms.
+
+Data Available: Ratings, NPS scores, common complaints/praises.
+
+8. Website & Social Media Analytics
+📌 Google Analytics, Facebook Insights, Instagram, etc.
+
+Data Available: Direct traffic, campaign conversions, engagement rates.
+
+9. Third-Party Market Reports
+📌 From companies like STR, Hotelogix, HVS, or Deloitte Hospitality Insights.
+
+Data Available: Benchmarking, market trends, competitive performance.
+
