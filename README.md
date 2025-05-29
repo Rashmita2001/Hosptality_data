@@ -1,15 +1,43 @@
-# Hosptality_data_key insights:
-If we analyse the data,we can see that from all three months that ADR is same within the hotels while there is slight difference in occupancy% and RevPar. So as these months comes in holidays season so the comapny can increse in there ADR depending on the peak days of the months like in weekend or holidays as mostly families spends their holidays in traveling so its a good choice for level up the revenues.Its is worth the risk.
-In hotels weekend counts from Friday and Saturday and Weekday counts from Sunday to Thursday, so from the data we can check that if revenue is good in weekdays,then we cans say it is a business hotels and if revenue is higher comparative to weekdays then the hotel is leasure hotel. But in the data as we can see WoW(as on hotels sales varies weekly wise) analysis there is slight difference in Revenue ,but in Occupancy% there is alomst 7% diiference we can say they are leasure hotels,but ADR is almost same and even Realisation(Actually Sales) also so then we can say the company can increase there ADR . The Solution: The pricing category in hotels: FLAT PRICING:Fixed Pricing Rate per room AND Weekday/Weekend Pricing:As for the hotels occupancy% and ADR hotels can increase or decearse their ADR in weekend/Weekday. And then comes DYNAMIC PRICING: Peak holiday seasons ,the hotels can increase or decearse their ADR  weekly wise.
-From the data we can realise that RevPar depends on ADR
-How does the pricing influence the Occupancy%?
-Pricing (Up) then Occupancy% (Down)
-Pricing (Down) then Occupancy% (Up)
-What to do with the lowest occupancy hotels?
-Apply the Panito Priciple: e.g., That 80%(Result) of the Revenue Coming from 20%(Effort) of high value Guests or Corporate Clients.
-If we check the hotels with best revenues we can see that they have good rating on the other side there are hotels with lowest revenue have bad ratings, so here we can check the two things:First: as we know now a days everything is on social media, promoting hotels in social media whether with good marketing plan or genuine ratings from customer so here we can imporve that for the hotels and Second: Chceking there services Is it bad only in ratings or genuinely problem in their services and rooms according to their proviving. 
-Thses are the decisions that we can take by reviewing the data for the company to improve their market shares and revenues.
-Here the data were gathered directly from hotels own system as we had given direct acces to it by:
+Hospitality Data: Key Insights & Strategic Recommendations
+1. Performance Overview
+Upon analyzing data from three consecutive months, we observe that the Average Daily Rate (ADR) remained constant across the hotels, while there were slight fluctuations in Occupancy % and Revenue Per Available Room (RevPAR). Given that these months fall within the holiday season, there is a significant opportunity to optimize ADR on peak days—such as weekends and public holidays—when demand naturally increases due to family travel. Strategically increasing ADR during these high-demand periods could enhance revenue without significantly affecting occupancy. This calculated risk is likely worth taking.
+
+2. Understanding Demand Patterns
+In the hospitality industry:
+Weekends typically refer to Friday and Saturday
+Weekdays span Sunday to Thursday
+By examining revenue trends between weekdays and weekends:
+If weekday revenue is higher, the hotel likely caters to business travelers
+If weekend revenue is stronger, it indicates a leisure-focused hotel
+From the week-over-week (WoW) analysis in our dataset:
+Revenue differences are minor
+However, Occupancy % varies by approximately 7%, suggesting a leisure-driven market
+ADR and realization (actual sales) remain stable, indicating potential for ADR growth without major occupancy loss.
+
+4. Recommended Pricing Strategy
+To optimize performance, the following pricing models are advised:
+Flat Pricing: A fixed rate per room, regardless of the day
+Weekday/Weekend Pricing: Adjust rates based on demand patterns between weekdays and weekends
+Dynamic Pricing: Implement rate changes in real time, especially during holiday seasons or based on demand forecasts
+Hotels should increasingly leverage dynamic pricing, particularly during peak holiday periods, to maximize revenue while maintaining competitiveness.
+
+5. Relationship Between Pricing and Occupancy
+The data reaffirms a standard pricing-occupancy dynamic:
+Higher pricing generally leads to lower occupancy
+Lower pricing tends to increase occupancy
+This relationship must be balanced thoughtfully based on the hotel's positioning (business vs. leisure) and current market trends.
+
+6. Strategy for Low Occupancy Hotels
+Apply the Pareto Principle (80/20 Rule):
+Often, 80% of revenue comes from 20% of high-value guests or corporate clients
+Focus marketing and service enhancements toward these high-value segments
+Additionally, improve underperforming hotels by addressing:
+Guest Ratings: Top-performing hotels have better ratings; poorly rated properties show lower revenues
+Action Plan:
+Enhance digital presence through strategic social media marketing and engagement
+Audit service quality: Determine whether low ratings stem from actual service issues or misaligned guest expectations
+
+Common Data Sources in the Hospitality Industry:
 1. Property Management System (PMS)
 📌 Core system in hotels for managing reservations, check-ins/outs, billing, etc.
 Data Available: Room bookings, guest profiles, stay history, cancellations.
@@ -41,3 +69,4 @@ Data Available: Direct traffic, campaign conversions, engagement rates.
 9. Third-Party Market Reports
 📌 From companies like STR, Hotelogix, HVS, or Deloitte Hospitality Insights.
 Data Available: Benchmarking, market trends, competitive performance.
+
